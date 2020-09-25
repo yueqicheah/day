@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310852132688",
+    "firebase_url": "https://daily-479e4.firebaseio.com",
+    "project_id": "daily-479e4",
+    "storage_bucket": "daily-479e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310852132688:android:973e4c3a765f103e0cd655",
+        "android_client_info": {
+          "package_name": "com.yueqi.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310852132688-0d2feviobut2e5q83d9tqofgmbducish.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQfdcVDWvWIbUR2SPPRMf8tCNGyS0g_m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310852132688-0d2feviobut2e5q83d9tqofgmbducish.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
